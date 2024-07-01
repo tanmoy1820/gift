@@ -10,12 +10,12 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: src="bg.jpeg";
+  background-image: url("bg.jpeg");
   background-position: center center;
 }
 
 .paper {
-  background-image: src="OIP (1).jpg";
+  background-image: url("OIP (1).jpg");
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
